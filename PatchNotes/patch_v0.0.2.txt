@@ -1,0 +1,29 @@
+SuperHexagon7_v0.0.2 [ALPHA] 
+
+
+ADDED:
+
+-New scene animation transitions;
+-A functional and responsive gui;
+-A functional scoreboard;
+
+UPCOMING:
+
+-Theme selection gets a scrollable list;
+-In GameOver: A database HighScore with a table userdata that stores userdata;
+-Columns for userdata: ID, username, Highscore;
+-Menu scene retrieves the rows from table userdata and outputs in ascending order in a list;
+-SoundEffects, audio.
+-Character animations.
+
+IDEAS:
+
+-Adding disasters that will occur each 5 || 10 rounds;
+-Player Animations, customization scene;
+-UI rework;
+-Multiplayer locally;
+-Webserver;
+-A database CustomThemes that can store customizable theme selections;
+-CustomThemes has the following tables: Images, Characters, Theme;
+-Images stores 7 Images, column names resembles the colors of the hex where you place your image.
+-Characters stores the names of the character.
